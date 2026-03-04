@@ -5,3 +5,5 @@
 [Задание 1](/first_prog.ipynb)
 
 [Задание 2](/second_prog.ipynb)
+
+[Задание 3](/3_prog.ipynb)
