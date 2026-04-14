@@ -11,3 +11,5 @@
 [Задание 4](/4_prog.ipynb)
 
 [Задание 7_kNN](/7_kNN.ipynb)
+
+[EDA](/EDA.ipynb)
