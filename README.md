@@ -14,6 +14,6 @@
 
 [EDA](/EDA.ipynb)
 
-[Проект](/project_spambase_final.ipynb) 
+[Проект](/project_spambase-3.ipynb) 
 
-[Ссылка на Google Colab:] (https://colab.research.google.com/drive/1_MvUOTglDf7fBJ4PDHCuzdvxHMhBQe5w?usp=sharing)
+[Ссылка на Google Colab:](https://colab.research.google.com/drive/1_MvUOTglDf7fBJ4PDHCuzdvxHMhBQe5w?usp=sharing)
