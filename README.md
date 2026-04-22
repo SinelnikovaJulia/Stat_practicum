@@ -13,3 +13,5 @@
 [Задание 7_kNN](/7_kNN.ipynb)
 
 [EDA](/EDA.ipynb)
+
+[Проект](/проект_spambase.ipynb) Ссылка на Colab https://colab.research.google.com/drive/1_MvUOTglDf7fBJ4PDHCuzdvxHMhBQe5w?usp=sharing
